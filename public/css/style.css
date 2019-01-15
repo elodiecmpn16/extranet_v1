@@ -1,0 +1,78 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.navbar{
+    margin-bottom: 50px;
+}
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+.accueilMetiers{
+    background-color: rgba(61, 72, 82, 0.5);
+    padding: 30px;
+}
+
+.containerMetier{
+    margin-top: 15%;
+}
+.jumbotron{
+    background-image: url("../img/trs.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom ;
+}
+
+.bandeau{
+    padding: 20px;
+
+}
+.jumbotron img{
+    width: 100%;
+
+}
+
+.retour{
+    bottom: 0px;
+}
